@@ -10,7 +10,7 @@ Note: This plugin is designed for the simplicity!
 
 API for your plugin to use!
 
-An example plugin to see how to add custom tags: [ExamplePlugin](https://github.com/WavyCraftNetwork/DeviceOS)
+An example plugin to see how to add custom tags: [ExamplePlugin](https://github.com/WavyCraft/HealthBar)
 
 **Grab the ranks manager**
 ```
